@@ -1,0 +1,21 @@
+{
+	"name": "xm-username-generator",
+	"version": "1.0.0",
+	"description": "A random username generator, made out of one random adjective, one random noun, a random number",
+	"main": "index.js",
+	"scripts": {
+		"test": "node ./tests/test.js"
+	},
+	"keywords": [
+		"random",
+		"user",
+		"generator",
+		"node"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/FRickReich/xm-username-generator"
+	},
+	"author": "F. Rick Reich <frickreich@gmail.com>",
+	"license": "MIT"
+}
