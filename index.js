@@ -1,5 +1,5 @@
 /*!
- * braces <https://github.com/FRickReich/XMUserGenerator>
+ * xm-username-generator <https://github.com/FRickReich/XMUserGenerator>
  *
  * Copyright (c) 2020, F. Rick Reich.
  * Licensed under the MIT license.
