@@ -6,7 +6,7 @@ A random username generator, made out of one random adjective, one random noun, 
 Install the module with npm: 
 
 ```javascript
-npm install xmusergenerator
+npm install xm-username-generator
 ```
 
 ## Usage
